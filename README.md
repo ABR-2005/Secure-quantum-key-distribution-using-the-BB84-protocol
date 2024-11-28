@@ -40,7 +40,7 @@ The quantum states used in BB84:
 + (diagonal basis): (|0⟩ + |1⟩)/√2
 − (diagonal basis): (|0⟩ − |1⟩)/√2
 
-Setup Instructions
+Setup Instructions:
 To run the notebook and simulate the BB84 protocol, follow these instructions:
 
 Prerequisites:
